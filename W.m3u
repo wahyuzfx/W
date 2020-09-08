@@ -1,0 +1,902 @@
+#EXTM3U
+#EXTINF:-1,Channel INFO
+http://tvku.live:8888/Nayra/160190/1
+#EXTINF:-1,Server ID: AFC HD
+http://tvku.live:8888/Nayra/160190/3627
+#EXTINF:-1,Server ID: Aljazeera
+http://tvku.live:8888/Nayra/160190/3606
+#EXTINF:-1,Server ID: Animal Planet FHD
+http://tvku.live:8888/Nayra/160190/3616
+#EXTINF:-1,Server ID: Animal Planet HD
+http://tvku.live:8888/Nayra/160190/3615
+#EXTINF:-1,Server ID: Animax HD
+http://tvku.live:8888/Nayra/160190/3630
+#EXTINF:-1,Server ID: ANTV
+http://tvku.live:8888/Nayra/160190/3588
+#EXTINF:-1,Server ID: Arirang
+http://tvku.live:8888/Nayra/160190/3604
+#EXTINF:-1,Server ID: AXN HD
+http://tvku.live:8888/Nayra/160190/3631
+#EXTINF:-1,Server ID: BBC Lifestyle HD
+http://tvku.live:8888/Nayra/160190/3623
+#EXTINF:-1,Server ID: BBC World News
+http://tvku.live:8888/Nayra/160190/3585
+#EXTINF:-1,Server ID: Berita Satu
+http://tvku.live:8888/Nayra/160190/3578
+#EXTINF:-1,Server ID: Bloomberg
+http://tvku.live:8888/Nayra/160190/3607
+#EXTINF:-1,Server ID: Channel V HD
+http://tvku.live:8888/Nayra/160190/3624
+#EXTINF:-1,Server ID: Cinemax HD
+http://tvku.live:8888/Nayra/160190/4833
+#EXTINF:-1,Server ID: CNA
+http://tvku.live:8888/Nayra/160190/3580
+#EXTINF:-1,Server ID: Da Vinci Kids
+http://tvku.live:8888/Nayra/160190/3577
+#EXTINF:-1,Server ID: DAAI TV
+http://tvku.live:8888/Nayra/160190/3599
+#EXTINF:-1,Server ID: Disc Asia HD
+http://tvku.live:8888/Nayra/160190/3622
+#EXTINF:-1,Server ID: Discovery Channel FHD
+http://tvku.live:8888/Nayra/160190/3618
+#EXTINF:-1,Server ID: Discovery Channel HD
+http://tvku.live:8888/Nayra/160190/3617
+#EXTINF:-1,Server ID: Disney Channel
+http://tvku.live:8888/Nayra/160190/3613
+#EXTINF:-1,Server ID: Disney Junior
+http://tvku.live:8888/Nayra/160190/3614
+#EXTINF:-1,Server ID: FOX Action FHD
+http://tvku.live:8888/Nayra/160190/3642
+#EXTINF:-1,Server ID: FOX Action HD
+http://tvku.live:8888/Nayra/160190/3641
+#EXTINF:-1,Server ID: FOX Crime FHD
+http://tvku.live:8888/Nayra/160190/3638
+#EXTINF:-1,Server ID: FOX Crime HD
+http://tvku.live:8888/Nayra/160190/3637
+#EXTINF:-1,Server ID: FOX Family Movies FHD
+http://tvku.live:8888/Nayra/160190/3644
+#EXTINF:-1,Server ID: FOX Family Movies HD
+http://tvku.live:8888/Nayra/160190/3643
+#EXTINF:-1,Server ID: FOX FHD
+http://tvku.live:8888/Nayra/160190/3634
+#EXTINF:-1,Server ID: FOX HD
+http://tvku.live:8888/Nayra/160190/3633
+#EXTINF:-1,Server ID: FOX Life FHD
+http://tvku.live:8888/Nayra/160190/3636
+#EXTINF:-1,Server ID: FOX Life HD
+http://tvku.live:8888/Nayra/160190/3635
+#EXTINF:-1,Server ID: FOX Movies FHD
+http://tvku.live:8888/Nayra/160190/3640
+#EXTINF:-1,Server ID: FOX Movies HD
+http://tvku.live:8888/Nayra/160190/3639
+#EXTINF:-1,Server ID: France 24
+http://tvku.live:8888/Nayra/160190/3586
+#EXTINF:-1,Server ID: FX FHD
+http://tvku.live:8888/Nayra/160190/3646
+#EXTINF:-1,Server ID: FX HD
+http://tvku.live:8888/Nayra/160190/3645
+#EXTINF:-1,Server ID: HBO Family HD
+http://tvku.live:8888/Nayra/160190/4830
+#EXTINF:-1,Server ID: HBO HD 
+http://tvku.live:8888/Nayra/160190/4828
+#EXTINF:-1,Server ID: HBO Hits HD
+http://tvku.live:8888/Nayra/160190/4829
+#EXTINF:-1,Server ID: HBO Signature HD
+http://tvku.live:8888/Nayra/160190/4831
+#EXTINF:-1,Server ID: HGTV HD
+http://tvku.live:8888/Nayra/160190/3628
+#EXTINF:-1,Server ID: History
+http://tvku.live:8888/Nayra/160190/24220
+#EXTINF:-1,Server ID: Indosiar
+http://tvku.live:8888/Nayra/160190/4839
+#EXTINF:-1,Server ID: Jak TV
+http://tvku.live:8888/Nayra/160190/3598
+#EXTINF:-1,Server ID: JTV
+http://tvku.live:8888/Nayra/160190/3600
+#EXTINF:-1,Server ID: K Drama
+http://tvku.live:8888/Nayra/160190/3595
+#EXTINF:-1,Server ID: Kompas TV
+http://tvku.live:8888/Nayra/160190/3590
+#EXTINF:-1,Server ID: Metro TV
+http://tvku.live:8888/Nayra/160190/3589
+#EXTINF:-1,Server ID: MY TV
+http://tvku.live:8888/Nayra/160190/3610
+#EXTINF:-1,Server ID: Nat Geo FHD
+http://tvku.live:8888/Nayra/160190/13690
+#EXTINF:-1,Server ID: Nat Geo HD
+http://tvku.live:8888/Nayra/160190/3621
+#EXTINF:-1,Server ID: Nat Geo People FHD
+http://tvku.live:8888/Nayra/160190/13718
+#EXTINF:-1,Server ID: Nat Geo People HD
+http://tvku.live:8888/Nayra/160190/3619
+#EXTINF:-1,Server ID: Nat Geo Wild FHD
+http://tvku.live:8888/Nayra/160190/13717
+#EXTINF:-1,Server ID: Nat Geo Wild HD
+http://tvku.live:8888/Nayra/160190/3620
+#EXTINF:-1,Server ID: NET HD
+http://tvku.live:8888/Nayra/160190/3579
+#EXTINF:-1,Server ID: Nick JR ID
+http://tvku.live:8888/Nayra/160190/14165
+#EXTINF:-1,Server ID: O Channel
+http://tvku.live:8888/Nayra/160190/3597
+#EXTINF:-1,Server ID: Rajawali TV
+http://tvku.live:8888/Nayra/160190/3591
+#EXTINF:-1,Server ID: Rodja
+http://tvku.live:8888/Nayra/160190/3592
+#EXTINF:-1,Server ID: RT
+http://tvku.live:8888/Nayra/160190/3608
+#EXTINF:-1,Server ID: S GEM HD
+http://tvku.live:8888/Nayra/160190/3632
+#EXTINF:-1,Server ID: SCTV
+http://tvku.live:8888/Nayra/160190/3593
+#EXTINF:-1,Server ID: Sinema Indonesia
+http://tvku.live:8888/Nayra/160190/3596
+#EXTINF:-1,Server ID: Sony ONE HD
+http://tvku.live:8888/Nayra/160190/3647
+#EXTINF:-1,Server ID: Spacetoon
+http://tvku.live:8888/Nayra/160190/3603
+#EXTINF:-1,Server ID: TLC HD
+http://tvku.live:8888/Nayra/160190/3626
+#EXTINF:-1,Server ID: Trans 7
+http://tvku.live:8888/Nayra/160190/3583
+#EXTINF:-1,Server ID: Trans TV
+http://tvku.live:8888/Nayra/160190/3584
+#EXTINF:-1,Server ID: TV One
+http://tvku.live:8888/Nayra/160190/3587
+#EXTINF:-1,Server ID: TVRI
+http://tvku.live:8888/Nayra/160190/3594
+#EXTINF:-1,Server ID: Waku Waku Japan HD
+http://tvku.live:8888/Nayra/160190/14166
+#EXTINF:-1,Server ID: XingXong
+http://tvku.live:8888/Nayra/160190/3605
+#EXTINF:-1,ANTV
+http://tvku.live:8888/Nayra/160190/31
+#EXTINF:-1,Bali TV
+http://tvku.live:8888/Nayra/160190/889
+#EXTINF:-1,DAAI TV
+http://tvku.live:8888/Nayra/160190/21
+#EXTINF:-1,Dunia Lain
+http://tvku.live:8888/Nayra/160190/910
+#EXTINF:-1,Hope Channel
+http://tvku.live:8888/Nayra/160190/30183
+#EXTINF:-1,Indosiar
+http://tvku.live:8888/Nayra/160190/1845
+#EXTINF:-1,Jak TV
+http://tvku.live:8888/Nayra/160190/1210
+#EXTINF:-1,JTV
+http://tvku.live:8888/Nayra/160190/135
+#EXTINF:-1,Life
+http://tvku.live:8888/Nayra/160190/1772
+#EXTINF:-1,NET TV
+http://tvku.live:8888/Nayra/160190/24
+#EXTINF:-1,NET TV FHD
+http://tvku.live:8888/Nayra/160190/78
+#EXTINF:-1,O Channel
+http://tvku.live:8888/Nayra/160190/1727
+#EXTINF:-1,Rajawali TV
+http://tvku.live:8888/Nayra/160190/37
+#EXTINF:-1,SCTV
+http://tvku.live:8888/Nayra/160190/32
+#EXTINF:-1,SCTV HD
+http://tvku.live:8888/Nayra/160190/931
+#EXTINF:-1,Trans 7
+http://tvku.live:8888/Nayra/160190/35
+#EXTINF:-1,Trans 7 FHD
+http://tvku.live:8888/Nayra/160190/930
+#EXTINF:-1,Trans TV
+http://tvku.live:8888/Nayra/160190/34
+#EXTINF:-1,Trans TV FHD
+http://tvku.live:8888/Nayra/160190/929
+#EXTINF:-1,U Channel
+http://tvku.live:8888/Nayra/160190/1208
+#EXTINF:-1,Aljazeera EN
+http://tvku.live:8888/Nayra/160190/89
+#EXTINF:-1,BBC World News HD
+http://tvku.live:8888/Nayra/160190/789
+#EXTINF:-1,Berita Satu News
+http://tvku.live:8888/Nayra/160190/136
+#EXTINF:-1,Bloomberg
+http://tvku.live:8888/Nayra/160190/788
+#EXTINF:-1,Bloomberg TV Asia
+http://tvku.live:8888/Nayra/160190/137
+#EXTINF:-1,CGTN News
+http://tvku.live:8888/Nayra/160190/15070
+#EXTINF:-1,Channel News Asia
+http://tvku.live:8888/Nayra/160190/1191
+#EXTINF:-1,CNBC Indonesia
+http://tvku.live:8888/Nayra/160190/1512
+#EXTINF:-1,CNN Indonesia
+http://tvku.live:8888/Nayra/160190/44
+#EXTINF:-1,CNN Int
+http://tvku.live:8888/Nayra/160190/1200
+#EXTINF:-1,DW TV Asia
+http://tvku.live:8888/Nayra/160190/205
+#EXTINF:-1,France 24
+http://tvku.live:8888/Nayra/160190/787
+#EXTINF:-1,INEWS HD
+http://tvku.live:8888/Nayra/160190/2459
+#EXTINF:-1,Kompas TV
+http://tvku.live:8888/Nayra/160190/30
+#EXTINF:-1,Metro TV
+http://tvku.live:8888/Nayra/160190/52
+#EXTINF:-1,Metro TV HD
+http://tvku.live:8888/Nayra/160190/1697
+#EXTINF:-1,TV ONE
+http://tvku.live:8888/Nayra/160190/29
+#EXTINF:-1,TVRI
+http://tvku.live:8888/Nayra/160190/36
+#EXTINF:-1,ATV
+http://tvku.live:8888/Nayra/160190/29899
+#EXTINF:-1,AXN
+http://tvku.live:8888/Nayra/160190/9
+#EXTINF:-1,Bioskop Indonesia
+http://tvku.live:8888/Nayra/160190/908
+#EXTINF:-1,Blue Ant Extreme FHD
+http://tvku.live:8888/Nayra/160190/811
+#EXTINF:-1,CCM
+http://tvku.live:8888/Nayra/160190/2118
+#EXTINF:-1,Celestial Movies
+http://tvku.live:8888/Nayra/160190/5
+#EXTINF:-1,Cinema World
+http://tvku.live:8888/Nayra/160190/1194
+#EXTINF:-1,Cinemax ID
+http://tvku.live:8888/Nayra/160190/2156
+#EXTINF:-1,Cinemax FHD
+http://tvku.live:8888/Nayra/160190/30185
+#EXTINF:-1,Cinemax SD
+http://tvku.live:8888/Nayra/160190/26599
+#EXTINF:-1,FLIK HD
+http://tvku.live:8888/Nayra/160190/29592
+#EXTINF:-1,FMN
+http://tvku.live:8888/Nayra/160190/11489
+#EXTINF:-1,FOX Action Movies FHD
+http://tvku.live:8888/Nayra/160190/1478
+#EXTINF:-1,FOX Action Movies HD
+http://tvku.live:8888/Nayra/160190/99
+#EXTINF:-1,FOX Action Movies SD
+http://tvku.live:8888/Nayra/160190/1125
+#EXTINF:-1,FOX Crime FHD
+http://tvku.live:8888/Nayra/160190/3334
+#EXTINF:-1,FOX Crime HD
+http://tvku.live:8888/Nayra/160190/763
+#EXTINF:-1,FOX Crime SD
+http://tvku.live:8888/Nayra/160190/2257
+#EXTINF:-1,FOX Family Movies EN
+http://tvku.live:8888/Nayra/160190/1493
+#EXTINF:-1,FOX Family Movies ID
+http://tvku.live:8888/Nayra/160190/14994
+#EXTINF:-1,FOX HD
+http://tvku.live:8888/Nayra/160190/95
+#EXTINF:-1,FOX Life HD
+http://tvku.live:8888/Nayra/160190/94
+#EXTINF:-1,FOX Movies FHD
+http://tvku.live:8888/Nayra/160190/1205
+#EXTINF:-1,FOX Movies HD
+http://tvku.live:8888/Nayra/160190/98
+#EXTINF:-1,FOX Movies HD Backup
+http://tvku.live:8888/Nayra/160190/978
+#EXTINF:-1,FX HD
+http://tvku.live:8888/Nayra/160190/776
+#EXTINF:-1,Galaxy Premium SD
+http://tvku.live:8888/Nayra/160190/29603
+#EXTINF:-1,Galaxy SD
+http://tvku.live:8888/Nayra/160190/29604
+#EXTINF:-1,HBO Family HD
+http://tvku.live:8888/Nayra/160190/592
+#EXTINF:-1,HBO Family FHD
+http://tvku.live:8888/Nayra/160190/30184
+#EXTINF:-1,HBO Family SD
+http://tvku.live:8888/Nayra/160190/26598
+#EXTINF:-1,HBO FHD
+http://tvku.live:8888/Nayra/160190/1496
+#EXTINF:-1,HBO HD
+http://tvku.live:8888/Nayra/160190/210
+#EXTINF:-1,HBO Hits FHD
+http://tvku.live:8888/Nayra/160190/11492
+#EXTINF:-1,HBO Hits HD
+http://tvku.live:8888/Nayra/160190/591
+#EXTINF:-1,HBO Hits SD
+http://tvku.live:8888/Nayra/160190/26596
+#EXTINF:-1,HBO SD
+http://tvku.live:8888/Nayra/160190/26595
+#EXTINF:-1,HBO Signature FHD
+http://tvku.live:8888/Nayra/160190/1498
+#EXTINF:-1,HBO Signature HD
+http://tvku.live:8888/Nayra/160190/873
+#EXTINF:-1,HBO Signature SD
+http://tvku.live:8888/Nayra/160190/26597
+#EXTINF:-1,HITS FHD
+http://tvku.live:8888/Nayra/160190/1195
+#EXTINF:-1,Hits Movie FHD
+http://tvku.live:8888/Nayra/160190/957
+#EXTINF:-1,IMC
+http://tvku.live:8888/Nayra/160190/1483
+#EXTINF:-1,KIX HD
+http://tvku.live:8888/Nayra/160190/8
+#EXTINF:-1,LifeTime FHD
+http://tvku.live:8888/Nayra/160190/866
+#EXTINF:-1,Red By HBO HD
+http://tvku.live:8888/Nayra/160190/4832
+#EXTINF:-1,Sinema Indonesia
+http://tvku.live:8888/Nayra/160190/3476
+#EXTINF:-1,Star Chinese Movies HD
+http://tvku.live:8888/Nayra/160190/780
+#EXTINF:-1,Star Chinese Movies Legend
+http://tvku.live:8888/Nayra/160190/1859
+#EXTINF:-1,Star World
+http://tvku.live:8888/Nayra/160190/381
+#EXTINF:-1,Thrill
+http://tvku.live:8888/Nayra/160190/4
+#EXTINF:-1,Warner TV ID HD
+http://tvku.live:8888/Nayra/160190/1533
+#EXTINF:-1,Zee Bioskop
+http://tvku.live:8888/Nayra/160190/7
+#EXTINF:-1,Animal Planet HD
+http://tvku.live:8888/Nayra/160190/358
+#EXTINF:-1,BBC Earth
+http://tvku.live:8888/Nayra/160190/385
+#EXTINF:-1,Crime Investigation
+http://tvku.live:8888/Nayra/160190/332
+#EXTINF:-1,Discovery Asia
+http://tvku.live:8888/Nayra/160190/779
+#EXTINF:-1,Discovery Channel HD
+http://tvku.live:8888/Nayra/160190/165
+#EXTINF:-1,Discovery Science HD
+http://tvku.live:8888/Nayra/160190/408
+#EXTINF:-1,Discovery Shed
+http://tvku.live:8888/Nayra/160190/333
+#EXTINF:-1,Discovery Turbo
+http://tvku.live:8888/Nayra/160190/462
+#EXTINF:-1,History FHD
+http://tvku.live:8888/Nayra/160190/8131
+#EXTINF:-1,History HD
+http://tvku.live:8888/Nayra/160190/718
+#EXTINF:-1,Love Nature 4K
+http://tvku.live:8888/Nayra/160190/14105
+#EXTINF:-1,Nat Geo HD
+http://tvku.live:8888/Nayra/160190/96
+#EXTINF:-1,Nat Geo People HD
+http://tvku.live:8888/Nayra/160190/455
+#EXTINF:-1,Nat Geo Wild HD
+http://tvku.live:8888/Nayra/160190/97
+#EXTINF:-1,Smithsonian Channel
+http://tvku.live:8888/Nayra/160190/14103
+#EXTINF:-1,Animax
+http://tvku.live:8888/Nayra/160190/3
+#EXTINF:-1,Aniplus
+http://tvku.live:8888/Nayra/160190/2
+#EXTINF:-1,Baby First
+http://tvku.live:8888/Nayra/160190/1204
+#EXTINF:-1,Baby TV
+http://tvku.live:8888/Nayra/160190/296
+#EXTINF:-1,Boomerang ID
+http://tvku.live:8888/Nayra/160190/305
+#EXTINF:-1,Cartoon Network ID HD
+http://tvku.live:8888/Nayra/160190/680
+#EXTINF:-1,CBeebies
+http://tvku.live:8888/Nayra/160190/491
+#EXTINF:-1,Disney Channel
+http://tvku.live:8888/Nayra/160190/306
+#EXTINF:-1,Disney Channel ID
+http://tvku.live:8888/Nayra/160190/3479
+#EXTINF:-1,Disney Junior
+http://tvku.live:8888/Nayra/160190/213
+#EXTINF:-1,Disney UK
+http://tvku.live:8888/Nayra/160190/2336
+#EXTINF:-1,Disney XD
+http://tvku.live:8888/Nayra/160190/104
+#EXTINF:-1,Duck TV
+http://tvku.live:8888/Nayra/160190/1854
+#EXTINF:-1,Lingua Channel
+http://tvku.live:8888/Nayra/160190/14944
+#EXTINF:-1,Dunia Anak
+http://tvku.live:8888/Nayra/160190/907
+#EXTINF:-1,Horee
+http://tvku.live:8888/Nayra/160190/14106
+#EXTINF:-1,Nick Jr 2
+http://tvku.live:8888/Nayra/160190/341
+#EXTINF:-1,Nick Jr ID
+http://tvku.live:8888/Nayra/160190/522
+#EXTINF:-1,Nick Toons
+http://tvku.live:8888/Nayra/160190/335
+#EXTINF:-1,Nickelodeon ID
+http://tvku.live:8888/Nayra/160190/962
+#EXTINF:-1,Spacetoon
+http://tvku.live:8888/Nayra/160190/1541
+#EXTINF:-1,Toonmax
+http://tvku.live:8888/Nayra/160190/1116
+#EXTINF:-1,Zoo Moo FHD
+http://tvku.live:8888/Nayra/160190/14104
+#EXTINF:-1,Astro Cricket HD
+http://tvku.live:8888/Nayra/160190/4237
+#EXTINF:-1,BeIN Sport 1 ID
+http://tvku.live:8888/Nayra/160190/728
+#EXTINF:-1,BeIN Sport 2 ID
+http://tvku.live:8888/Nayra/160190/729
+#EXTINF:-1,Box Nation
+http://tvku.live:8888/Nayra/160190/499
+#EXTINF:-1,FIGHT BOX
+http://tvku.live:8888/Nayra/160190/501
+#EXTINF:-1,Fight Sports
+http://tvku.live:8888/Nayra/160190/784
+#EXTINF:-1,Fox Sports 1 HD
+http://tvku.live:8888/Nayra/160190/51
+#EXTINF:-1,Fox Sports 1 SD
+http://tvku.live:8888/Nayra/160190/26628
+#EXTINF:-1,Fox Sports 2 HD
+http://tvku.live:8888/Nayra/160190/102
+#EXTINF:-1,Fox Sports 2 SD
+http://tvku.live:8888/Nayra/160190/26633
+#EXTINF:-1,Fox Sports 3 HD
+http://tvku.live:8888/Nayra/160190/101
+#EXTINF:-1,Fox Sports 3 SD
+http://tvku.live:8888/Nayra/160190/26634
+#EXTINF:-1,Golf Channel FHD
+http://tvku.live:8888/Nayra/160190/561
+#EXTINF:-1,Golf HD
+http://tvku.live:8888/Nayra/160190/864
+#EXTINF:-1,NBA TV HD
+http://tvku.live:8888/Nayra/160190/3099
+#EXTINF:-1,NBA TV HD US
+http://tvku.live:8888/Nayra/160190/243
+#EXTINF:-1,Ten Golf HD
+http://tvku.live:8888/Nayra/160190/224
+#EXTINF:-1,Tennis Channel
+http://tvku.live:8888/Nayra/160190/482
+#EXTINF:-1,Tennis Channel 2
+http://tvku.live:8888/Nayra/160190/19168
+#EXTINF:-1,WWE Network
+http://tvku.live:8888/Nayra/160190/299
+#EXTINF:-1,UFC FHD
+http://tvku.live:8888/Nayra/160190/2401
+#EXTINF:-1,AFN HD
+http://tvku.live:8888/Nayra/160190/807
+#EXTINF:-1,Blue Ant Entertainment FHD
+http://tvku.live:8888/Nayra/160190/1506
+#EXTINF:-1,DMAX
+http://tvku.live:8888/Nayra/160190/483
+#EXTINF:-1,Every Good Game
+http://tvku.live:8888/Nayra/160190/921
+#EXTINF:-1,Fashion TV
+http://tvku.live:8888/Nayra/160190/280
+#EXTINF:-1,HGTV
+http://tvku.live:8888/Nayra/160190/537
+#EXTINF:-1,Insert
+http://tvku.live:8888/Nayra/160190/1763
+#EXTINF:-1,NHK World Japan
+http://tvku.live:8888/Nayra/160190/785
+#EXTINF:-1,TLC English
+http://tvku.live:8888/Nayra/160190/351
+#EXTINF:-1,TLC HD
+http://tvku.live:8888/Nayra/160190/352
+#EXTINF:-1,TV 5 Monde Asie
+http://tvku.live:8888/Nayra/160190/786
+#EXTINF:-1,Waku Waku Japan HD
+http://tvku.live:8888/Nayra/160190/717
+#EXTINF:-1,ZQTV Drama
+http://tvku.live:8888/Nayra/160190/26979
+#EXTINF:-1,K Drama
+http://tvku.live:8888/Nayra/160190/1699
+#EXTINF:-1,K Plus
+http://tvku.live:8888/Nayra/160190/18
+#EXTINF:-1,KBS World
+http://tvku.live:8888/Nayra/160190/15057
+#EXTINF:-1,S GEM HD
+http://tvku.live:8888/Nayra/160190/770
+#EXTINF:-1,Sony ONE
+http://tvku.live:8888/Nayra/160190/19
+#EXTINF:-1,TVN ID
+http://tvku.live:8888/Nayra/160190/767
+#EXTINF:-1,tVN Movies HD
+http://tvku.live:8888/Nayra/160190/927
+#EXTINF:-1,Channel V Int
+http://tvku.live:8888/Nayra/160190/766
+#EXTINF:-1,i konser
+http://tvku.live:8888/Nayra/160190/29594
+#EXTINF:-1,MTV
+http://tvku.live:8888/Nayra/160190/281
+#EXTINF:-1,MTV Base
+http://tvku.live:8888/Nayra/160190/291
+#EXTINF:-1,MTV Classic
+http://tvku.live:8888/Nayra/160190/289
+#EXTINF:-1,MTV Dance
+http://tvku.live:8888/Nayra/160190/288
+#EXTINF:-1,MTV Hits
+http://tvku.live:8888/Nayra/160190/287
+#EXTINF:-1,MTV LIVE HD
+http://tvku.live:8888/Nayra/160190/9110
+#EXTINF:-1,MTV Music
+http://tvku.live:8888/Nayra/160190/286
+#EXTINF:-1,NRJ Hits TV
+http://tvku.live:8888/Nayra/160190/29836
+#EXTINF:-1,ONE African TV
+http://tvku.live:8888/Nayra/160190/1731
+#EXTINF:-1,Prambors TV
+http://tvku.live:8888/Nayra/160190/1157
+#EXTINF:-1,Citra Drama
+http://tvku.live:8888/Nayra/160190/905
+#EXTINF:-1,Ahsan TV
+http://tvku.live:8888/Nayra/160190/26630
+#EXTINF:-1,Al-Iman TV
+http://tvku.live:8888/Nayra/160190/26631
+#EXTINF:-1,Citra Dangdut
+http://tvku.live:8888/Nayra/160190/2207
+#EXTINF:-1,Madina TV
+http://tvku.live:8888/Nayra/160190/912
+#EXTINF:-1,Makkah TV
+http://tvku.live:8888/Nayra/160190/297
+#EXTINF:-1,Reformed 21
+http://tvku.live:8888/Nayra/160190/26632
+#EXTINF:-1,Rodja TV
+http://tvku.live:8888/Nayra/160190/843
+#EXTINF:-1,TAWAF TV
+http://tvku.live:8888/Nayra/160190/14997
+#EXTINF:-1,TV Mu
+http://tvku.live:8888/Nayra/160190/1726
+#EXTINF:-1,AR: Al Nahar
+http://tvku.live:8888/Nayra/160190/2575
+#EXTINF:-1,AR: MBC Action HD
+http://tvku.live:8888/Nayra/160190/2564
+#EXTINF:-1,AR: MBC Drama HD
+http://tvku.live:8888/Nayra/160190/2565
+#EXTINF:-1,AR: MBC Variety HD
+http://tvku.live:8888/Nayra/160190/2567
+#EXTINF:-1,AR: Nile Cinema
+http://tvku.live:8888/Nayra/160190/2584
+#EXTINF:-1,AR: Nile Culture
+http://tvku.live:8888/Nayra/160190/2582
+#EXTINF:-1,AR: Nile Drama
+http://tvku.live:8888/Nayra/160190/2581
+#EXTINF:-1,AR: Nile Family
+http://tvku.live:8888/Nayra/160190/2576
+#EXTINF:-1,AR: Nile Life
+http://tvku.live:8888/Nayra/160190/2580
+#EXTINF:-1,AR: NILE NEWS
+http://tvku.live:8888/Nayra/160190/2579
+#EXTINF:-1,AR: Nile tv
+http://tvku.live:8888/Nayra/160190/2577
+#EXTINF:-1,AR: Rotana Alfam HD
+http://tvku.live:8888/Nayra/160190/2574
+#EXTINF:-1,AR: Rotana Cinema HD
+http://tvku.live:8888/Nayra/160190/2573
+#EXTINF:-1,AR: Rotana Classic HD
+http://tvku.live:8888/Nayra/160190/2572
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://tvku.live:8888/Nayra/160190/2571
+#EXTINF:-1,AR: Rotana Masriah HD
+http://tvku.live:8888/Nayra/160190/2570
+#EXTINF:-1,IN: & Picture HD
+http://tvku.live:8888/Nayra/160190/2553
+#EXTINF:-1,IN: &TV HD India
+http://tvku.live:8888/Nayra/160190/2554
+#EXTINF:-1,IN: B4U Movies
+http://tvku.live:8888/Nayra/160190/2557
+#EXTINF:-1,IN: B4U Music
+http://tvku.live:8888/Nayra/160190/2558
+#EXTINF:-1,IN: Colors HD
+http://tvku.live:8888/Nayra/160190/2548
+#EXTINF:-1,IN: Sony Max HD
+http://tvku.live:8888/Nayra/160190/180
+#EXTINF:-1,IN: Star Jalsha
+http://tvku.live:8888/Nayra/160190/2547
+#EXTINF:-1,IN: Star Vijay
+http://tvku.live:8888/Nayra/160190/2545
+#EXTINF:-1,IN: SUN Life
+http://tvku.live:8888/Nayra/160190/2556
+#EXTINF:-1,IN: SUN Music
+http://tvku.live:8888/Nayra/160190/2555
+#EXTINF:-1,IN: UTV Bindass
+http://tvku.live:8888/Nayra/160190/2544
+#EXTINF:-1,IN: Zee Bollywood
+http://tvku.live:8888/Nayra/160190/2541
+#EXTINF:-1,IN: Zee Cinema
+http://tvku.live:8888/Nayra/160190/2542
+#EXTINF:-1,IN: Zee HD
+http://tvku.live:8888/Nayra/160190/2559
+#EXTINF:-1,IN: Zing TV
+http://tvku.live:8888/Nayra/160190/813
+#EXTINF:-1,Adithya TV
+http://tvku.live:8888/Nayra/160190/4256
+#EXTINF:-1,Astro AEC HD
+http://tvku.live:8888/Nayra/160190/4257
+#EXTINF:-1,Astro AOD 351
+http://tvku.live:8888/Nayra/160190/4262
+#EXTINF:-1,Astro AOD 352
+http://tvku.live:8888/Nayra/160190/4263
+#EXTINF:-1,Astro AOD 353
+http://tvku.live:8888/Nayra/160190/4264
+#EXTINF:-1,Astro AOD 362
+http://tvku.live:8888/Nayra/160190/4266
+#EXTINF:-1,Astro AOD HD 363
+http://tvku.live:8888/Nayra/160190/4267
+#EXTINF:-1,Astro Awani
+http://tvku.live:8888/Nayra/160190/4269
+#EXTINF:-1,Astro Bollyone HD
+http://tvku.live:8888/Nayra/160190/4277
+#EXTINF:-1,Astro Ceria
+http://tvku.live:8888/Nayra/160190/4282
+#EXTINF:-1,Astro Go Shop
+http://tvku.live:8888/Nayra/160190/4305
+#EXTINF:-1,Astro Go Shop 2
+http://tvku.live:8888/Nayra/160190/4304
+#EXTINF:-1,Astro Go Shop 3
+http://tvku.live:8888/Nayra/160190/4306
+#EXTINF:-1,Astro HUA HEE DAI HD
+http://tvku.live:8888/Nayra/160190/4313
+#EXTINF:-1,Astro OASIS HD
+http://tvku.live:8888/Nayra/160190/4323
+#EXTINF:-1,Astro Prima HD
+http://tvku.live:8888/Nayra/160190/4326
+#EXTINF:-1,Astro QUAN JIA HD
+http://tvku.live:8888/Nayra/160190/4327
+#EXTINF:-1,Astro Ria HD
+http://tvku.live:8888/Nayra/160190/4329
+#EXTINF:-1,Astro SHUANG XING HD
+http://tvku.live:8888/Nayra/160190/4331
+#EXTINF:-1,Astro STAR VIJAY HD
+http://tvku.live:8888/Nayra/160190/4332
+#EXTINF:-1,Astro TUTOR TV PT3
+http://tvku.live:8888/Nayra/160190/4336
+#EXTINF:-1,Astro TUTOR TV SPM
+http://tvku.live:8888/Nayra/160190/4337
+#EXTINF:-1,Astro TUTOR TV UPSR
+http://tvku.live:8888/Nayra/160190/4338
+#EXTINF:-1,Astro TVIQ
+http://tvku.live:8888/Nayra/160190/4344
+#EXTINF:-1,Astro VAANAVIL
+http://tvku.live:8888/Nayra/160190/4345
+#EXTINF:-1,Astro VINMEEN HD
+http://tvku.live:8888/Nayra/160190/4346
+#EXTINF:-1,Astro WARNA HD
+http://tvku.live:8888/Nayra/160190/4348
+#EXTINF:-1,Astro XIAO TAI YANG
+http://tvku.live:8888/Nayra/160190/4350
+#EXTINF:-1,MY ABC AUSTRALIA
+http://tvku.live:8888/Nayra/160190/4358
+#EXTINF:-1,MY AFC HD
+http://tvku.live:8888/Nayra/160190/4258
+#EXTINF:-1,MY AL JAZEERA HD
+http://tvku.live:8888/Nayra/160190/4359
+#EXTINF:-1,MY Animal Planet HD
+http://tvku.live:8888/Nayra/160190/4259
+#EXTINF:-1,MY ANIMAX
+http://tvku.live:8888/Nayra/160190/4360
+#EXTINF:-1,MY Aniplus HD
+http://tvku.live:8888/Nayra/160190/4260
+#EXTINF:-1,MY AXN HD
+http://tvku.live:8888/Nayra/160190/4270
+#EXTINF:-1,MY BBC WORLD NEWS HD
+http://tvku.live:8888/Nayra/160190/4361
+#EXTINF:-1,MY beIN SPORTS
+http://tvku.live:8888/Nayra/160190/4274
+#EXTINF:-1,MY BNC
+http://tvku.live:8888/Nayra/160190/4276
+#EXTINF:-1,MY Cartoon Network
+http://tvku.live:8888/Nayra/160190/4278
+#EXTINF:-1,MY CCM
+http://tvku.live:8888/Nayra/160190/4279
+#EXTINF:-1,MY CCTV4
+http://tvku.live:8888/Nayra/160190/4280
+#EXTINF:-1,MY CELESTIAL HD
+http://tvku.live:8888/Nayra/160190/4281
+#EXTINF:-1,MY Celestial Movies
+http://tvku.live:8888/Nayra/160190/4386
+#EXTINF:-1,MY CHUTTI TV
+http://tvku.live:8888/Nayra/160190/4284
+#EXTINF:-1,MY CINEMAX HD
+http://tvku.live:8888/Nayra/160190/4286
+#EXTINF:-1,MY CNA HD
+http://tvku.live:8888/Nayra/160190/4362
+#EXTINF:-1,MY CNBC
+http://tvku.live:8888/Nayra/160190/4288
+#EXTINF:-1,MY CNN HD
+http://tvku.live:8888/Nayra/160190/4289
+#EXTINF:-1,MY COLORS HD
+http://tvku.live:8888/Nayra/160190/4290
+#EXTINF:-1,MY COLORS TAMIL
+http://tvku.live:8888/Nayra/160190/4363
+#EXTINF:-1,MY COMEDY CENTRAL HD
+http://tvku.live:8888/Nayra/160190/4364
+#EXTINF:-1,MY Crime Investigation HD
+http://tvku.live:8888/Nayra/160190/4285
+#EXTINF:-1,MY CTI ASIA
+http://tvku.live:8888/Nayra/160190/4291
+#EXTINF:-1,MY Discovery Asia
+http://tvku.live:8888/Nayra/160190/4293
+#EXTINF:-1,MY Discovery HD
+http://tvku.live:8888/Nayra/160190/4294
+#EXTINF:-1,MY Discovery Science HD
+http://tvku.live:8888/Nayra/160190/4292
+#EXTINF:-1,MY Disney Channel
+http://tvku.live:8888/Nayra/160190/4295
+#EXTINF:-1,MY Disney Junior
+http://tvku.live:8888/Nayra/160190/4296
+#EXTINF:-1,MY Disney XD HD
+http://tvku.live:8888/Nayra/160190/4297
+#EXTINF:-1,MY DMAX HD
+http://tvku.live:8888/Nayra/160190/4299
+#EXTINF:-1,MY DW HD
+http://tvku.live:8888/Nayra/160190/4365
+#EXTINF:-1,MY eGG Network
+http://tvku.live:8888/Nayra/160190/4301
+#EXTINF:-1,MY EUROSPORT HD
+http://tvku.live:8888/Nayra/160190/4302
+#EXTINF:-1,MY Food Network HD
+http://tvku.live:8888/Nayra/160190/4303
+#EXTINF:-1,MY Fox Action HD
+http://tvku.live:8888/Nayra/160190/4391
+#EXTINF:-1,MY FOX HD
+http://tvku.live:8888/Nayra/160190/4393
+#EXTINF:-1,MY Fox Life HD
+http://tvku.live:8888/Nayra/160190/4379
+#EXTINF:-1,MY Fox Movies Family HD
+http://tvku.live:8888/Nayra/160190/4392
+#EXTINF:-1,MY Fox Movies HD
+http://tvku.live:8888/Nayra/160190/4390
+#EXTINF:-1,MY FOX SPORTS 2 HD
+http://tvku.live:8888/Nayra/160190/4366
+#EXTINF:-1,MY FOX SPORTS 3 HD
+http://tvku.live:8888/Nayra/160190/4367
+#EXTINF:-1,MY FOX SPORTS HD
+http://tvku.live:8888/Nayra/160190/4368
+#EXTINF:-1,MY Golf Channel HD
+http://tvku.live:8888/Nayra/160190/4307
+#EXTINF:-1,MY HBO HD
+http://tvku.live:8888/Nayra/160190/4308
+#EXTINF:-1,MY HELLO
+http://tvku.live:8888/Nayra/160190/4309
+#EXTINF:-1,MY HGTV HD
+http://tvku.live:8888/Nayra/160190/4310
+#EXTINF:-1,MY HISTORY HD
+http://tvku.live:8888/Nayra/160190/4311
+#EXTINF:-1,MY HITS HD
+http://tvku.live:8888/Nayra/160190/4312
+#EXTINF:-1,MY iQIYI HD
+http://tvku.live:8888/Nayra/160190/4314
+#EXTINF:-1,MY JAYA TV
+http://tvku.live:8888/Nayra/160190/4315
+#EXTINF:-1,MY KALAIGNAR
+http://tvku.live:8888/Nayra/160190/4316
+#EXTINF:-1,MY KBS WORLD HD
+http://tvku.live:8888/Nayra/160190/4317
+#EXTINF:-1,MY KIX HD
+http://tvku.live:8888/Nayra/160190/4318
+#EXTINF:-1,MY KPLUS HD
+http://tvku.live:8888/Nayra/160190/4319
+#EXTINF:-1,MY MAKKAL TV
+http://tvku.live:8888/Nayra/160190/4320
+#EXTINF:-1,MY MTV
+http://tvku.live:8888/Nayra/160190/4370
+#EXTINF:-1,MY Nat Geo Wild HD
+http://tvku.live:8888/Nayra/160190/4371
+#EXTINF:-1,MY NAURA
+http://tvku.live:8888/Nayra/160190/4321
+#EXTINF:-1,MY NICKELODEON
+http://tvku.live:8888/Nayra/160190/4322
+#EXTINF:-1,MY Oh!K HD
+http://tvku.live:8888/Nayra/160190/4324
+#EXTINF:-1,MY ONE HD
+http://tvku.live:8888/Nayra/160190/4325
+#EXTINF:-1,MY RAJ TV
+http://tvku.live:8888/Nayra/160190/4328
+#EXTINF:-1,MY SETANTA SPORTS
+http://tvku.live:8888/Nayra/160190/4330
+#EXTINF:-1,MY SUN MUSIC
+http://tvku.live:8888/Nayra/160190/4333
+#EXTINF:-1,MY SUN TV HD
+http://tvku.live:8888/Nayra/160190/4334
+#EXTINF:-1,MY TLC HD
+http://tvku.live:8888/Nayra/160190/4335
+#EXTINF:-1,MY TVB CLASSIC
+http://tvku.live:8888/Nayra/160190/4339
+#EXTINF:-1,MY TVB E-NEWS
+http://tvku.live:8888/Nayra/160190/4340
+#EXTINF:-1,MY TVB JADE
+http://tvku.live:8888/Nayra/160190/4341
+#EXTINF:-1,MY TVB XING HE
+http://tvku.live:8888/Nayra/160190/4342
+#EXTINF:-1,MY TVBS ASIA
+http://tvku.live:8888/Nayra/160190/4343
+#EXTINF:-1,MY tvN Movies
+http://tvku.live:8888/Nayra/160190/4375
+#EXTINF:-1,MY WARNER TV
+http://tvku.live:8888/Nayra/160190/4376
+#EXTINF:-1,MY WWE NETWORK
+http://tvku.live:8888/Nayra/160190/4349
+#EXTINF:-1,MY: Nat Geo
+http://tvku.live:8888/Nayra/160190/15104
+#EXTINF:-1,MY: Nat Geo People
+http://tvku.live:8888/Nayra/160190/15105
+#EXTINF:-1,MY: Nat Geo Wild
+http://tvku.live:8888/Nayra/160190/15106
+#EXTINF:-1,MY: Paramount Channel
+http://tvku.live:8888/Nayra/160190/2363
+#EXTINF:-1,TV1
+http://tvku.live:8888/Nayra/160190/2262
+#EXTINF:-1,TV2
+http://tvku.live:8888/Nayra/160190/2263
+#EXTINF:-1,TV3
+http://tvku.live:8888/Nayra/160190/2264
+#EXTINF:-1,TV8
+http://tvku.live:8888/Nayra/160190/2333
+#EXTINF:-1,TVB Jade
+http://tvku.live:8888/Nayra/160190/4347
+#EXTINF:-1,Channel 5
+http://tvku.live:8888/Nayra/160190/11199
+#EXTINF:-1,Channel 8
+http://tvku.live:8888/Nayra/160190/11200
+#EXTINF:-1,Channel U
+http://tvku.live:8888/Nayra/160190/26209
+#EXTINF:-1,Okto
+http://tvku.live:8888/Nayra/160190/26210
+#EXTINF:-1,Suria
+http://tvku.live:8888/Nayra/160190/26212
+#EXTINF:-1,Vasantham
+http://tvku.live:8888/Nayra/160190/26584
+#EXTINF:-1,TTXVN
+http://tvku.live:8888/Nayra/160190/27069
+#EXTINF:-1,VTV 6
+http://tvku.live:8888/Nayra/160190/27058
+#EXTINF:-1,VTV5
+http://tvku.live:8888/Nayra/160190/27066
+#EXTINF:-1,VTV9
+http://tvku.live:8888/Nayra/160190/27067
+#EXTINF:-1,Chinese Drama
+http://tvku.live:8888/Nayra/160190/29599
+#EXTINF:-1,CN: CCTV 4
+http://tvku.live:8888/Nayra/160190/2912
+#EXTINF:-1,CTI Asia
+http://tvku.live:8888/Nayra/160190/29602
+#EXTINF:-1,ETTV Asia
+http://tvku.live:8888/Nayra/160190/29597
+#EXTINF:-1,Formosa
+http://tvku.live:8888/Nayra/160190/29601
+#EXTINF:-1,Kungfu TV
+http://tvku.live:8888/Nayra/160190/29598
+#EXTINF:-1,Shenzhen International
+http://tvku.live:8888/Nayra/160190/29596
+#EXTINF:-1,TVBS News
+http://tvku.live:8888/Nayra/160190/29600
+#EXTINF:-1,Zhejiang International
+http://tvku.live:8888/Nayra/160190/29595
+#EXTINF:-1, Drive
+http://tvku.live:8888/movie/Nayra/160190/3955.mp4
+#EXTINF:-1, Love
+http://tvku.live:8888/movie/Nayra/160190/3859.mp4
+#EXTINF:-1,'71 - 2014
+http://tvku.live:8888/movie/Nayra/160190/14261.mp4
+#EXTINF:-1,(500) Days of Summer - 2009
+http://tvku.live:8888/movie/Nayra/160190/14286.mkv
+#EXTINF:-1,[REC] - 2007
+http://tvku.live:8888/movie/Nayra/160190/14262.mp4
+#EXTINF:-1,[REC]² - 2009
+http://tvku.live:8888/movie/Nayra/160190/14263.mp4
+#EXTINF:-1,[REC]³ Genesis - 2012
+http://tvku.live:8888/movie/Nayra/160190/14264.mp4
+#EXTINF:-1,[REC]⁴ Apocalypse - 2014
+http://tvku.live:8888/movie/Nayra/160190/14265.mp4
+#EXTINF:-1,#Stuck (2014)
+http://tvku.live:8888/movie/Nayra/160190/29781.mp4
+#EXTINF:-1,0.0MHz - 2019
+http://tvku.live:8888/movie/Nayra/160190/11960.mp4
+#EXTINF:-1,1/1 - 2018
+http://tvku.live:8888/movie/Nayra/160190/14563.mp4
+#EXTINF:-1,100 Acres of Hell
+http://tvku.live:8888/movie/Nayra/160190/3566.mkv
+#EXTINF:-1,100 Days with Mr. Arrogant - 2004
+http://tvku.live:8888/movie/Nayra/160190/24723.mkv
+#EXTINF:-1,100 Million BC
+http://tvku.live:8888/movie/Nayra/160190/4042.mp4
+#EXTINF:-1,12 Strong - 2018
+http://tvku.live:8888/movie/Nayra/160190/9130.mkv
+#EXTINF:-1,127 Hours - 2010
+http://tvku.live:8888/movie/Nayra/160190/9245.mkv
+#EXTINF:-1,13 Assassins - 2010
+http://tvku.live:8888/movie/Nayra/160190/14787.mp4
+#EXTINF:-1,13 Hours: The Secret Soldiers of Benghazi - 2016
+http://tvku.live:8888/movie/Nayra/160190/26999.mp4
+#EXTINF:-1,14 Cameras
+http://tvku.live:8888/movie/Nayra/160190/4399.mp4
+#EXTINF:-1,15 Minutes of War - 2019
+http://tvku.live:8888/movie/Nayra/160190/29189.mp4
+#EXTINF:-1,15+ Coming of Age - 2017
